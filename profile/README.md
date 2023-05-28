@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Your Gym Body Project 👋
 
 <!--
 
